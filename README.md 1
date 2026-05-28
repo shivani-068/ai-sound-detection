@@ -1,0 +1,19 @@
+# AI Sound Detection System
+
+## Project Overview
+This project detects sound using microphone input and Python.
+
+## Technologies Used
+- Python
+- NumPy
+- SoundDevice
+
+## Features
+- Records audio
+- Detects sound level
+- Loud and quiet sound classification
+
+## Installation
+
+```bash
+pip install -r requirements.txt
